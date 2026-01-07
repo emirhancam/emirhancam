@@ -22,18 +22,6 @@ Building high-performance systems and network applications.
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=emirhancam&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&include_all_commits=true&count_private=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=emirhancam&theme=dark&hide_border=true&background=0d1117)
-
-</div>
-
----
-
 ### 📬 Get In Touch
 
 <div align="center">
