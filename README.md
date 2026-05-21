@@ -18,7 +18,7 @@ Building high-performance systems and network applications.
 `Linux` • `Docker` • `eBPF/XDP`
 
 **Focus Areas**  
-`Network Programming` • `System Development` • `Container Technologies`
+`Embedded Linux Programming` • `Network Programming` • `System Development` • `Container Technologies`
 
 ---
 
