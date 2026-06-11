@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi there, I'm Emirhan Çam</h1>
 
 <p align="center">
-  <b>Software Engineer</b> <br>
+  <b>Software Engineer | C/C++/Go | Linux | Embedded Systems</b> <br>
   <sub>Kernel ↔ userspace integration · low-latency, fault-tolerant architectures</sub>
 </p>
 
