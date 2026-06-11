@@ -1,38 +1,51 @@
-# 👋 Hi there, I'm Emirhan Çam
+<h1 align="center">👋 Hi there, I'm Emirhan Çam</h1>
 
-## 💻 Software Engineer
-
-Building high-performance systems and network applications.
-
----
-
-### Languages
-
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-004482?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white)
-
-### Systems & Networking
-
-![Linux](https://img.shields.io/badge/Linux-222222?style=for-the-badge&logo=linux&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Qt](https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white)
+<p align="center">
+  <b>Lead Software Engineer</b> · Linux-based networking, security &amp; real-time systems<br>
+  <sub>Kernel ↔ userspace integration · low-latency, fault-tolerant architectures</sub>
+</p>
 
 ---
 
-### 📬 Get In Touch
+### 🧭 About
 
-<div align="center">
+6+ years building production-grade systems in **C, C++ and Go** across the defense and
+telecom domains — from 24/7 high-availability IP-PBX platforms to tactical routing systems
+with kernel-level packet processing and encrypted tunnel management.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/emirhancam)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:emirhancam95@gmail.com)
+I work close to the metal: eBPF/XDP datapaths, Netfilter, IPsec/XFRM, dynamic mesh routing,
+and transparent proxy / deep-packet-inspection pipelines.
 
-</div>
+### 🛠️ What I work on
 
----
+- **Kernel-level packet processing** — eBPF / XDP, Netfilter, Linux kernel ↔ userspace integration
+- **Secure tunneling** — IPsec / XFRM tunnel management & session lifecycle control
+- **Tactical & mesh routing** — OSPF, OLSR, traffic management for dynamic networks
+- **Transparent proxy & DPI** — lwIP, Suricata, inline IPS/IDS
+- **Real-time communication** — SIP/SDP, RTP/RTCP, call-control state machines
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=emirhancam&style=flat-square&color=blue" alt="Profile views"/>
-</div>
+### ⚙️ Tech Stack
+
+**Languages**
+`C` · `C++` · `Go` · `Bash`
+
+**Systems & Kernel**
+`Linux` · `eBPF` · `XDP` · `Netfilter` · `Embedded Linux` · `STM32 (bare-metal)`
+
+**Networking**
+`TCP/IP` · `IPsec/XFRM` · `OSPF` · `OLSR` · `SIP` · `RDMA` · `lwIP` · `Suricata`
+
+**Tooling**
+`Docker` · `Git` · `Qt` · `Jira`
+
+### 📫 Get in touch
+
+[LinkedIn](https://www.linkedin.com/in/emirhancam) · [Email](mailto:emirhancam95@gmail.com)
+
+<!--
+Optional GitHub stats — uncomment and replace YOUR_USERNAME if you want them.
+Keep it minimal; skip trophy/streak/snake widgets for a senior systems profile.
+
+![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&theme=dark)
+-->
