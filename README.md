@@ -8,7 +8,7 @@ Building high-performance systems and network applications.
 
 ### 💻 Languages
 
-`C` • `C++` • `Go`
+`C` • `C++` • `Go` • `Bash`
 
 ---
 
