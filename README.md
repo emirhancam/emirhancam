@@ -42,10 +42,11 @@ and transparent proxy / deep-packet-inspection pipelines.
 
 [LinkedIn](https://www.linkedin.com/in/emirhancam) · [Email](mailto:emirhancam95@gmail.com)
 
+![Stats](https://github-readme-stats.vercel.app/api?username=emirhancam&show_icons=true&hide_border=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emirhancam&layout=compact&hide_border=true&theme=dark)
 <!--
 Optional GitHub stats — uncomment and replace YOUR_USERNAME if you want them.
 Keep it minimal; skip trophy/streak/snake widgets for a senior systems profile.
 
-![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&theme=dark)
+
 -->
