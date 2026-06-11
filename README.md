@@ -6,19 +6,19 @@ Building high-performance systems and network applications.
 
 ---
 
-### 💻 Languages
+### Languages
 
-`C` • `C++` • `Go` • `Bash`
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-004482?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white)
 
----
+### Systems & Networking
 
-### 🛠️ Technologies
-
-**Core Stack**  
-`Linux` • `Docker` • `eBPF/XDP`
-
-**Focus Areas**  
-`Embedded Linux Programming` • `Network Programming` • `System Development` • `Container Technologies`
+![Linux](https://img.shields.io/badge/Linux-222222?style=for-the-badge&logo=linux&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Qt](https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white)
 
 ---
 
