@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi there, I'm Emirhan Çam</h1>
 
 <p align="center">
-  <b>Lead Software Engineer</b> · Linux-based networking, security &amp; real-time systems<br>
+  <b>Software Engineer</b> <br>
   <sub>Kernel ↔ userspace integration · low-latency, fault-tolerant architectures</sub>
 </p>
 
