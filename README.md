@@ -44,9 +44,3 @@ and transparent proxy / deep-packet-inspection pipelines.
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=emirhancam&show_icons=true&hide_border=true&theme=dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emirhancam&layout=compact&hide_border=true&theme=dark)
-<!--
-Optional GitHub stats — uncomment and replace YOUR_USERNAME if you want them.
-Keep it minimal; skip trophy/streak/snake widgets for a senior systems profile.
-
-
--->
